@@ -4,6 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeanneTN" alt="LeanneTN" /></a> 
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LeanneTN&theme=tokyonight)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=LeaneTN&label=Profile%20views&color=3399FF&style=flat)
 [![](https://visitor-badge.laobi.icu/badge?page_id=LeanneTN.LeanneTN)](https://visitor-badge.laobi.icu/badge?page_id=LeanneTN.LeanneTN)
 
@@ -12,6 +14,10 @@
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=LeanneTN&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanneTN&theme=dark&layout=compact)
+
+<h2>Recent Activities</h2>
+
+[![LeanneTN's github activity graph](https://activity-graph.herokuapp.com/graph?username=LeanneTN)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h2>Reach me at:</h2>
@@ -25,7 +31,7 @@ leannetwing@gmail.com
 leannetien@foxmail.com
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.apache.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a><a href="https://www.https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a> </p>
 <p align="center"> <a href="https://www.https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.https://www.nodejs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.https://www.numpy.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://www.https://www.pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.https://www.tensorflow.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
