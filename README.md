@@ -1,3 +1,4 @@
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leannetwing@gmail.com)
 - 👋 Hi, I’m @LeanneTN
 - 👀 I’m interested in software development, deep learning (GNN especially) and Linux
 - 🌱 I’m currently learning machine learning and GNN
