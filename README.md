@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LeanneTN</h1>
-<h3 align="center">Struggling in the ocean of code</h3>
+<h3 align="center">Struggling in the ocean of codes</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeanneTN" alt="LeanneTN" /></a> 
 </p>
@@ -13,7 +13,6 @@
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=LeanneTN&show_icons=true&theme=dark&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanneTN&theme=dark&layout=compact)
 
-<img src="https://raw.githubusercontent.com/LeanneTN/LeanneTN/3D-generator/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <h2>Reach me at:</h2>
 
