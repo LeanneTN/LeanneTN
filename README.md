@@ -14,6 +14,7 @@
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=LeanneTN&show_icons=true&theme=dark&count_private=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanneTN&theme=dark&layout=compact)
 
 <h2>Recent Activities</h2>
 
