@@ -8,6 +8,8 @@
 - I’m interested in software development, deep learning (GNN especially) and Linux
 - I’m currently learning deep learning and GNN
 
+![GithubStats](https://github-readme-stats.vercel.app/api?username=LeanneTN&show_icons=true&theme=dark&count_private=true)
+
 <h2>Reach me at:</h2>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leannetwing@gmail.com)
