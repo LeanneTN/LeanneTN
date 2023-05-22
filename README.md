@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm LeanneTN</h1>
-<h3 align="center">Struggling in the ocean of codes</h3>
+<h3 align="center">Finding the philosophy behind the world of code</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LeanneTN" alt="LeanneTN" /></a> 
 </p>
